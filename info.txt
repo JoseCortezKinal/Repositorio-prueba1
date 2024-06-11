@@ -1,0 +1,8 @@
+forma 1: utilizando la gui de github.
+git branch → verifico las ramas que tengo en el local.
+
+git fetch → actulizar cambios en el estado de la rama remota.
+
+git branch → visualizar las ramas (color verde = rama activa).
+
+git checkout {nombre_rama} → cambiar rama.
